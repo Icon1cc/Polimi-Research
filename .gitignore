@@ -3,3 +3,5 @@ negative_agent_fine_tuning.py
 /results/
 
 /myenv/
+
+/llama-2-7b-negative/
